@@ -1,0 +1,8 @@
+{
+  "name": "Bouncy Policies",
+  "description": "High-fidelity 2D pixel art backgrounds featuring a detailed presidential office for your game projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
